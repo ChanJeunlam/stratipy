@@ -1,4 +1,4 @@
-<img src="https://github.com/zsylvester/stratipy/blob/main/stratipy_logo.png" width="500">
+<img src="https://github.com/zsylvester/stratipy/blob/main/stratipy_logo.png" width="300">
 
 ## stratipy
 
